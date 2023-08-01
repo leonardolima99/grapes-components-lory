@@ -13,13 +13,7 @@
     "type": "git",
     "url": "https://github.com/leonardolima99/grapes-components-lory.git"
   },
-  "keywords": [
-    "grapesjs",
-    "plugin",
-    "slider",
-    "lory",
-    "wysiwyg"
-  ],
+  "keywords": [],
   "author": "Artur Arseniev",
   "license": "BSD-3-Clause",
   "babel": {
@@ -42,5 +36,8 @@
     "eslint": "^4.1.1",
     "webpack": "^3.8.1",
     "webpack-dev-server": "^2.9.4"
+  },
+  "publishConfig": {
+    "access": "public"
   }
 }
